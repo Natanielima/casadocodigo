@@ -1,0 +1,154 @@
+{
+  "livros": [
+    {
+      "titulo": "Aprenda a programar com Python",
+      "preco": 39,
+      "autor": "Leonardo Soares e Silva",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_8cd4235f-3217-4f80-ab12-b6c546e77dff_large.jpg?v=1654834607",
+      "alt": "Aprenda a programar com Python",
+      "quantidade": 100,
+      "categoria": "Lógica",
+      "id": 1
+    },
+    {
+      "titulo": "Introdução à Computação",
+      "preco": 29,
+      "autor": "Guilherme Silveira",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/IntroducaoaComputacao_ebook_large.jpg?v=1631719430",
+      "alt": "Introdução à Computação",
+      "quantidade": 100,
+      "categoria": "Lógica",
+      "id": 2
+    },
+    {
+      "titulo": "Desbravando SOLID",
+      "preco": 89,
+      "autor": "Alexandre Aquiles",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_408c6b07-0499-45a6-99fe-d06b67cf92ef_large.jpg?v=1659469600",
+      "alt": "Desbravando SOLID",
+      "quantidade": 100,
+      "categoria": "Java",
+      "id": 3
+    },
+    {
+      "titulo": "Desbravando SOLID",
+      "preco": 49,
+      "autor": "Eduardo Felipe Zambom Santana",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/Back-EndJava_Amazon_large.jpg?v=1631747300",
+      "alt": "Desbravando SOLID",
+      "quantidade": 100,
+      "categoria": "Java",
+      "id": 4
+    },
+    {
+      "titulo": "Design Patterns com C#",
+      "preco": 39,
+      "autor": "Rodrigo Gonçalves Santana",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/cover_551dcf98-5f2e-4a08-b2ed-75371507823a_large.jpg?v=1631660457",
+      "alt": "Design Patterns com C#",
+      "quantidade": 100,
+      "categoria": ".NET",
+      "id": 5
+    },
+    {
+      "titulo": "ASP.NET Core MVC",
+      "preco": 39,
+      "autor": "Everton Coimbra de Araújo",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/ASP.NETCoreMVC__Amazon_large.jpg?v=1631571623",
+      "alt": "ASP.NET Core MVC",
+      "quantidade": 100,
+      "categoria": ".NET",
+      "id": 6
+    },
+    {
+      "titulo": "Desvendando o CodeIgniter 4",
+      "preco": 39,
+      "autor": "Jonathan Lamim",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/CodeIgniter4_Amazon_large.jpg?v=1631667846",
+      "alt": "Desvendando o CodeIgniter 4",
+      "quantidade": 100,
+      "categoria": "PHP",
+      "id": 7
+    },
+    {
+      "titulo": "TDD para Games",
+      "preco": 39,
+      "autor": "Julia Naomi Boeira",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/TDDparaGames_ebook_large.jpg?v=1631649035",
+      "alt": "TDD para Games",
+      "quantidade": 100,
+      "categoria": "Games",
+      "id": 8
+    },
+    {
+      "titulo": "Computação Evolucionária",
+      "preco": 39,
+      "autor": "Eduardo Pereira",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/Computacaoevolucionaria_Amazon_large.jpg?v=1631649527",
+      "alt": "Computação Evolucionária",
+      "quantidade": 100,
+      "categoria": "OO",
+      "id": 9
+    },
+    {
+      "titulo": "Yesod e Haskell",
+      "preco": 29,
+      "autor": "Alexandre Garcia de Oliveira",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/YesodeHaskell_ebook_large.jpg?v=1631728638",
+      "alt": "Yesod e Haskell",
+      "quantidade": 100,
+      "categoria": "Funcional",
+      "id": 10
+    },
+    {
+      "titulo": "Python",
+      "preco": 89,
+      "autor": "Felipe Cruz",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/Python_ebook_large.jpg?v=1631651164",
+      "alt": "Python",
+      "quantidade": 100,
+      "categoria": "Python",
+      "id": 11
+    },
+    {
+      "titulo": "Chatbots para Telegram",
+      "preco": 39,
+      "autor": "Priscila Keli L. P. Frizzarin",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_3e095003-a0b9-4e52-828f-5ab195d48703_large.jpg?v=1675196900",
+      "alt": "Chatbots para Telegram",
+      "quantidade": 100,
+      "categoria": "Outros",
+      "id": 12
+    },
+    {
+      "titulo": "Ionic 6",
+      "preco": 39,
+      "autor": "Everton Coimbra de Araújo",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/Ionic-6-DIGITAL__ebook_large.png?v=1643251131",
+      "alt": "Ionic 6",
+      "quantidade": 100,
+      "categoria": "iOS",
+      "id": 13
+    },
+    {
+      "titulo": "Kotlin com Android",
+      "preco": 39,
+      "autor": "Kassiano Resende",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/KotlincomAndroid_ebook_large.jpg?v=1631656393",
+      "alt": "Kotlin com Android",
+      "quantidade": 100,
+      "categoria": "Android",
+      "id": 14
+    },
+    {
+      "titulo": "Aprofundando em Flutter",
+      "preco": 39,
+      "autor": "Everton Coimbra de Araújo",
+      "imagem": "https://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-80_large.jpg?v=1660078397",
+      "alt": "Aprofundando em Flutter",
+      "quantidade": 100,
+      "categoria": "Multiplataforma",
+      "id": 15
+    }
+  ]
+}
